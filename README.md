@@ -60,40 +60,40 @@
 
 ## 🟩 Open-Source Software
 
-🛠️ Self-hosted, community-driven device farm tools and mobile orchestration runtimes, sorted in descending order by GitHub Star count. ⭐
+🛠️ Self-hosted, community-driven device farm tools and mobile orchestration runtimes, sorted in descending order by GitHub Stars_Count. ⭐
 
-### [openstf/stf](https://github.com/openstf/stf) [![GitHub stars](https://img.shields.io/github/stars/openstf/stf?style=social&color=white)](https://github.com/openstf/stf/stargazers) 📱
+### [openstf/stf](https://github.com/openstf/stf) [![GitHub_Stars](https://img.shields.io/github/stars/openstf/stf?style=social&color=white)](https://github.com/openstf/stf/stargazers) 📱
 - **Stack:** JavaScript / Node.js / RethinkDB / ZeroMQ | **License:** Apache-2.0 📜
 - **Overview:** Smartphone Test Farm (STF) is the landmark open-source web application for debugging and managing Android smartphones, tablets, and smartwatches remotely from a browser.
 - **Key Features:** Real-time screen viewing (30–40 FPS), multi-touch gesture support, keyboard input, drag-and-drop APK installation, shell execution, reverse port forwarding, and REST APIs.
 - **Maintenance Note:** ⚠️ The original repository is unmaintained (last push 2023). Recommended to reference active forks such as DeviceFarmer for active deployments.
 
-### [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) [![GitHub stars](https://img.shields.io/github/stars/mobile-next/mobile-mcp?style=social&color=white)](https://github.com/mobile-next/mobile-mcp/stargazers) 🤖
+### [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) [![GitHub_Stars](https://img.shields.io/github/stars/mobile-next/mobile-mcp?style=social&color=white)](https://github.com/mobile-next/mobile-mcp/stargazers) 🤖
 - **Stack:** TypeScript / Model Context Protocol (MCP) | **License:** Apache-2.0 📜
 - **Overview:** Gives AI coding agents (Claude Code, Cursor, Copilot) programmatic, direct control over iOS simulators, physical iPhones, Android emulators, and physical Android devices via 30+ MCP tools.
 - **Key Features:** Accessibility tree semantic element targeting (low token consumption), tap/swipe/input simulation, biometric bypass, clipboard synchronization, screen recording, and Mobile Next Cloud integration.
 
-### [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) [![GitHub stars](https://img.shields.io/github/stars/DeviceFarmer/stf?style=social&color=white)](https://github.com/DeviceFarmer/stf/stargazers) 🚜
+### [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) [![GitHub_Stars](https://img.shields.io/github/stars/DeviceFarmer/stf?style=social&color=white)](https://github.com/DeviceFarmer/stf/stargazers) 🚜
 - **Stack:** JavaScript / Node.js / Docker | **License:** Apache-2.0 📜
 - **Overview:** The primary community-maintained continuation of the original OpenSTF project, providing bug fixes, updated Android version support, and containerized deployment scripts.
 - **Key Features:** Docker-compose setup, browser-based remote control of Android devices, remote adb connect debugging, user authorization layers, and automated device reservation.
 
-### [SonicCloudOrg/sonic-server](https://github.com/SonicCloudOrg/sonic-server) [![GitHub stars](https://img.shields.io/github/stars/SonicCloudOrg/sonic-server?style=social&color=white)](https://github.com/SonicCloudOrg/sonic-server/stargazers) ⚡
+### [SonicCloudOrg/sonic-server](https://github.com/SonicCloudOrg/sonic-server) [![GitHub_Stars](https://img.shields.io/github/stars/SonicCloudOrg/sonic-server?style=social&color=white)](https://github.com/SonicCloudOrg/sonic-server/stargazers) ⚡
 - **Stack:** Java (Spring Cloud) / Vue 3 / Netty / Docker | **License:** Apache-2.0 📜
 - **Overview:** An enterprise-grade, distributed open-source cloud real-device platform for Android, iOS, Windows, macOS, and Web testing.
 - **Key Features:** Zero-code block-based UI automation, high-performance remote control via Netty, multi-datacenter agent cluster deployment, Chrome DevTools WebView debugging, and Jenkins CI/CD plugins.
 
-### [AppiumTestDistribution/appium-device-farm](https://github.com/AppiumTestDistribution/appium-device-farm) [![GitHub stars](https://img.shields.io/github/stars/AppiumTestDistribution/appium-device-farm?style=social&color=white)](https://github.com/AppiumTestDistribution/appium-device-farm/stargazers) 🎯
+### [AppiumTestDistribution/appium-device-farm](https://github.com/AppiumTestDistribution/appium-device-farm) [![GitHub_Stars](https://img.shields.io/github/stars/AppiumTestDistribution/appium-device-farm?style=social&color=white)](https://github.com/AppiumTestDistribution/appium-device-farm/stargazers) 🎯
 - **Stack:** Node.js / Appium 2.0 Plugin | **License:** Apache-2.0 📜
 - **Overview:** An official Appium 2.0 plugin designed to orchestrate and allocate connected physical Android & iOS devices, simulators, and emulators directly into parallel test runs.
 - **Key Features:** Zero-configuration device discovery, round-robin and least-busy device scheduling, simulator leasing/spinning, dynamic session proxying, and seamless CI/CD test grid integration.
 
-### [shamanec/GADS](https://github.com/shamanec/GADS) [![GitHub stars](https://img.shields.io/github/stars/shamanec/GADS?style=social&color=white)](https://github.com/shamanec/GADS/stargazers) 📺
+### [shamanec/GADS](https://github.com/shamanec/GADS) [![GitHub_Stars](https://img.shields.io/github/stars/shamanec/GADS?style=social&color=white)](https://github.com/shamanec/GADS/stargazers) 📺
 - **Stack:** Go / Appium / WebDriverAgent / Selenium Grid | **License:** AGPL-3.0 (Core) 📜
 - **Overview:** A lightweight, self-hosted device farm providing live remote control and Appium test execution across Android, iOS, and Smart TVs.
 - **Key Features:** Real-time WebRTC/MJPEG video streaming, full remote interaction (touch, keyboard, clipboard), Appium 2 node integration, and Smart TV automation for Samsung Tizen OS, LG WebOS, and Android TV.
 
-### [zebrunner/mcloud](https://github.com/zebrunner/mcloud) [![GitHub stars](https://img.shields.io/github/stars/zebrunner/mcloud?style=social&color=white)](https://github.com/zebrunner/mcloud/stargazers) 🐳
+### [zebrunner/mcloud](https://github.com/zebrunner/mcloud) [![GitHub_Stars](https://img.shields.io/github/stars/zebrunner/mcloud?style=social&color=white)](https://github.com/zebrunner/mcloud/stargazers) 🐳
 - **Stack:** Docker / Python / Shell / Selenium Grid | **License:** Apache-2.0 📜
 - **Overview:** Production-ready mobile test automation infrastructure for scalable Docker-based Android and iOS device farms with integrated Appium endpoints.
 - **Key Features:** Auto-detects connected USB devices, launches isolated Appium containers per device, streams device screens via browser, and integrates natively with Selenium Grid and Zebrunner QA platforms.
@@ -135,7 +135,7 @@
 
 🤝 Contributions are warmly welcomed! Please follow these guidelines:
 1. Ensure the tool or platform is actively maintained and relevant to real mobile device clouds or mobile test farms.
-2. For open-source tools, include the repository URL, tech stack, license, and GitHub stars badge link formatted as `[![GitHub stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`.
+2. For open-source tools, include the repository URL, tech stack, license, and GitHub_Stars_Badge link formatted as `[![GitHub_Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`.
 3. Keep descriptions objective, concise, and focused on device testing capabilities.
 
 ✨ Submit a Pull Request with your additions or updates!
