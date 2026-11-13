@@ -60,7 +60,7 @@
 
 ## 🟩 Open-Source Software
 
-🛠️ Self-hosted, community-driven device farm tools and mobile orchestration runtimes, sorted in descending order by GitHub Stars_Count. ⭐
+🛠️ Self-hosted, community-driven device farm tools and mobile orchestration runtimes, sorted in descending order by GitHub_Stars_Count. ⭐
 
 ### [openstf/stf](https://github.com/openstf/stf) [![GitHub_Stars](https://img.shields.io/github/stars/openstf/stf?style=social&color=white)](https://github.com/openstf/stf/stargazers) 📱
 - **Stack:** JavaScript / Node.js / RethinkDB / ZeroMQ | **License:** Apache-2.0 📜
